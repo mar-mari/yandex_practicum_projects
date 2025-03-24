@@ -24,4 +24,9 @@
   </tr>
 </table>
 
+|Header column 1|Header column 2|
+|-----------|-----------|
+|some text|more text|
+|some text|more and longer text|
+
 [link1]: https://github.com/mar-mari/yandex_practicum_projects/tree/main/online_game
