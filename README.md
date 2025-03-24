@@ -3,14 +3,14 @@
 Портфолио проектов, выполненных на Яндекс.Практикуме
 <table>
   <tr>
-    <th><center>Название проекта и ссылка</center></th>
-    <th><center>Краткое описание проекта</center></th>
+    <th><center>Проект</center></th>
+    <th><center>Краткое описание</center></th>
     <th><center>Навыки и инструменты</center></th>
   </tr>
   <tr>
-    <td>Текст 1</td>
+    <td>Онлайн игра</td>
     <td>Текст 2</td>
-    <td>Текст 2</td>
+    <td>SQL</td>
   </tr>
   <tr>
     <td>Текст 3</td>
