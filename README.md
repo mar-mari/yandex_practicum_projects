@@ -24,9 +24,10 @@
   </tr>
 </table>
 
-|Header column 1|Header column 2|
-|-----------|-----------|
-|[Онлайн игра][link1]|more text|
-|some text|more and longer text|
+|Проект|Краткое описание|Навыки и инструменты|
+|-----------|-----------|-----------|
+|[Онлайн игра][link1]|Изучить влияние характеристик игроков и их игровых персонажей на покупку внутриигровой валюты|SQL|
+|some text|more and longer text|more and longer text|
+|some text|more and longer text|more and longer text|
 
 [link1]: https://github.com/mar-mari/yandex_practicum_projects/tree/main/online_game
