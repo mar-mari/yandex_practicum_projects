@@ -1,6 +1,16 @@
 # Проекты Яндекс.Практикум
 ### Описание  
-Портфолио проектов, выполненных на Яндекс.Практикуме [Онлайн игра][link1]
+Портфолио проектов, выполненных на Яндекс.Практикуме
+
+|Проект|Краткое описание|Навыки и инструменты|
+|-----------|-----------|-----------|
+|[Онлайн игра][link1]|Изучить влияние характеристик игроков и их игровых персонажей на покупку внутриигровой валюты|SQL|
+|some text|more and longer text|more and longer text|
+|some text|more and longer text|more and longer text|
+
+[link1]: https://github.com/mar-mari/yandex_practicum_projects/tree/main/online_game
+
+<!--
 <table>
   <tr>
     <th><center>Проект</center></th>
@@ -23,11 +33,4 @@
     <td>DataLens</td>
   </tr>
 </table>
-
-|Проект|Краткое описание|Навыки и инструменты|
-|-----------|-----------|-----------|
-|[Онлайн игра][link1]|Изучить влияние характеристик игроков и их игровых персонажей на покупку внутриигровой валюты|SQL|
-|some text|more and longer text|more and longer text|
-|some text|more and longer text|more and longer text|
-
-[link1]: https://github.com/mar-mari/yandex_practicum_projects/tree/main/online_game
+  -->
