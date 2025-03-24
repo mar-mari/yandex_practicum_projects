@@ -8,7 +8,7 @@
     <th><center>Навыки и инструменты</center></th>
   </tr>
   <tr>
-    <td>Онлайн игра</td>
+    <td>[Онлайн игра](https://github.com/mar-mari/yandex_practicum_projects/tree/main/online_game)</td>
     <td>Изучить влияние характеристик игроков и их игровых персонажей на покупку внутриигровой валюты</td>
     <td>SQL</td>
   </tr>
