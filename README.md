@@ -6,11 +6,11 @@
 |-----------|-----------|-----------|
 |[Онлайн игра][link1]|Изучить влияние характеристик игроков и их игровых персонажей на покупку внутриигровой валюты|SQL|
 |[Анализ TED конференций][link2]|Интерактивный дашборд|DataLens|
-|some text|more and longer text|more and longer text|
+|[Исследование стартапов][link3]|Исследование данных с использованием визуализаций|Python pandas matplotlib|
 
 [link1]: https://github.com/mar-mari/yandex_practicum_projects/tree/main/online_game
 [link2]: https://github.com/mar-mari/yandex_practicum_projects/tree/main/dashboard_ted_conference
-[link3]:
+[link3]: https://github.com/mar-mari/yandex_practicum_projects/tree/main/research_startups
 [link4]:
 
 
