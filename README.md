@@ -5,10 +5,14 @@
 |Проект|Краткое описание|Навыки и инструменты|
 |-----------|-----------|-----------|
 |[Онлайн игра][link1]|Изучить влияние характеристик игроков и их игровых персонажей на покупку внутриигровой валюты|SQL|
-|some text|more and longer text|more and longer text|
+|[Анализ TED конференций][link2]|Интерактивный дашборд|DataLens|
 |some text|more and longer text|more and longer text|
 
 [link1]: https://github.com/mar-mari/yandex_practicum_projects/tree/main/online_game
+[link2]: https://github.com/mar-mari/yandex_practicum_projects/tree/main/dashboard_ted_conference
+[link3]:
+[link4]:
+
 
 <!--
 <table>
