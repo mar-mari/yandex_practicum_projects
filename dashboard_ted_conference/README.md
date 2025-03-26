@@ -1,5 +1,5 @@
 # Исследование TED конференций
-------------------------------
+
 [Ссылка](https://datalens.yandex.cloud/p5iimcrfl7j4c) на интерактивный дашборд
 ------------------------------
 ### Описание  
@@ -10,4 +10,4 @@
 - вывести топ-10 самых смешных выступлений и топ-20 популярных тегов;
 - вывести информацию о выступающих.
 ------------------------------
-![Изображение](https://drive.google.com/file/d/1fN0364OX1rzSGeDEGpTiphlJGWUfGvlY/view?usp=share_link)
+![Изображение](https://drive.google.com/file/d/1fN0364OX1rzSGeDEGpTiphlJGWUfGvlY/view)
